@@ -25,5 +25,3 @@ dist-ssr
 
 # Otros archivos
 .env
-public
-src/assets

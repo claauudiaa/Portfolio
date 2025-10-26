@@ -37,7 +37,7 @@ export default function CardContact() {
                         <i className="fas fa-envelope text-2xl text-white/90"></i>
                         <div>
                             <p className="font-semibold text-lg">Email</p>
-                            <p className="opacity-90">email@gmail.com</p>
+                            <p className="opacity-90">claudiacandelas2005@gmail.com</p>
                         </div>
                     </div>
 
@@ -46,7 +46,7 @@ export default function CardContact() {
                         <i className="fas fa-phone text-2xl text-white/90"></i>
                         <div>
                             <p className="font-semibold text-lg">Teléfono</p>
-                            <p className="opacity-90">+34 600 000 000</p>
+                            <p className="opacity-90">+34 654 93 53 58</p>
                         </div>
                     </div>
 

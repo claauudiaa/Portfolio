@@ -89,7 +89,7 @@ export default function CardContact() {
                             <i className="fab fa-github text-2xl"></i>
                         </a>
                         <a
-                            href="https://linkedin.com/in/dsd"
+                            href="https://linkedin.com/in/claudiacandelasoviedo"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-white/10 hover:bg-white/30 border border-white/20 rounded-xl p-4 transition-all duration-300"

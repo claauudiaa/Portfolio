@@ -88,8 +88,8 @@ export default function App() {
 
         <CardProject
           name="Mi portfolio personal"
-          texto="Aplicación web desarrollada para mostrar mis proyectos y experiencia, desplegada en Netlify."
-          stack={["React", "TailwindCSS", "Vite", "Netlify"]}
+          texto="Aplicación web desarrollada para mostrar mis proyectos y experiencia, desplegada en Vercel."
+          stack={["React", "TailwindCSS", "Vite", "Vercel"]}
           url="https://github.com/claauudiaa/Portfolio"
         />
 
